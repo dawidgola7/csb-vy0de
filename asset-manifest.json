@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "https://dawidgola7.github.io/csb-vy0de/static/css/main.8c748f6c.chunk.css",
+    "main.js": "https://dawidgola7.github.io/csb-vy0de/static/js/main.42cd9ed1.chunk.js",
+    "main.js.map": "https://dawidgola7.github.io/csb-vy0de/static/js/main.42cd9ed1.chunk.js.map",
+    "runtime-main.js": "https://dawidgola7.github.io/csb-vy0de/static/js/runtime-main.09e08bab.js",
+    "runtime-main.js.map": "https://dawidgola7.github.io/csb-vy0de/static/js/runtime-main.09e08bab.js.map",
+    "static/js/2.fd7b8111.chunk.js": "https://dawidgola7.github.io/csb-vy0de/static/js/2.fd7b8111.chunk.js",
+    "static/js/2.fd7b8111.chunk.js.map": "https://dawidgola7.github.io/csb-vy0de/static/js/2.fd7b8111.chunk.js.map",
+    "index.html": "https://dawidgola7.github.io/csb-vy0de/index.html",
+    "static/css/main.8c748f6c.chunk.css.map": "https://dawidgola7.github.io/csb-vy0de/static/css/main.8c748f6c.chunk.css.map",
+    "static/js/2.fd7b8111.chunk.js.LICENSE.txt": "https://dawidgola7.github.io/csb-vy0de/static/js/2.fd7b8111.chunk.js.LICENSE.txt",
+    "static/media/arrow.c5d64cd2.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/arrow.c5d64cd2.svg",
+    "static/media/arrow_dedicated.9d628360.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/arrow_dedicated.9d628360.svg",
+    "static/media/background.6314e233.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/background.6314e233.svg",
+    "static/media/style.css": "https://dawidgola7.github.io/csb-vy0de/static/media/background.97c5e50f.png",
+    "static/media/biznes-icon.9ec16ca6.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/biznes-icon.9ec16ca6.svg",
+    "static/media/city-icon.d13e92e1.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/city-icon.d13e92e1.svg",
+    "static/media/icon.67a2c8e2.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/icon.67a2c8e2.svg",
+    "static/media/icon.6fab1d78.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/icon.6fab1d78.svg",
+    "static/media/icon.82b77514.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/icon.82b77514.svg",
+    "static/media/icon.ff191ff0.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/icon.ff191ff0.svg",
+    "static/media/image1.7cf727ee.png": "https://dawidgola7.github.io/csb-vy0de/static/media/image1.7cf727ee.png",
+    "static/media/image_section_entries.e2bd97b9.png": "https://dawidgola7.github.io/csb-vy0de/static/media/image_section_entries.e2bd97b9.png",
+    "static/media/iphone.53ab78f7.png": "https://dawidgola7.github.io/csb-vy0de/static/media/iphone.53ab78f7.png",
+    "static/media/it-icon.6ea27a88.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/it-icon.6ea27a88.svg",
+    "static/media/logo_name.626fcae9.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/logo_name.626fcae9.svg",
+    "static/media/menu.7c0845f9.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/menu.7c0845f9.svg",
+    "static/media/mov_bbb.2c92d012.mp4": "https://dawidgola7.github.io/csb-vy0de/static/media/mov_bbb.2c92d012.mp4",
+    "static/media/phones.cfa3feec.png": "https://dawidgola7.github.io/csb-vy0de/static/media/phones.cfa3feec.png",
+    "static/media/stream2.547247d0.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/stream2.547247d0.svg",
+    "static/media/stream3.60bf67d1.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/stream3.60bf67d1.svg",
+    "static/media/stream4.721dc991.svg": "https://dawidgola7.github.io/csb-vy0de/static/media/stream4.721dc991.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09e08bab.js",
+    "static/js/2.fd7b8111.chunk.js",
+    "static/css/main.8c748f6c.chunk.css",
+    "static/js/main.42cd9ed1.chunk.js"
+  ]
+}
